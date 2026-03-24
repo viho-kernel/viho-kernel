@@ -7,6 +7,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+
 ```bash
 $ whoami
 > viho-kernel (Sai Vihari Reddy) — Cloud & DevSecOps Engineer
@@ -14,6 +16,13 @@ $ whoami
 > Focus     : AWS · Terraform · Jenkins · Ansible · Docker · K8s
 > Mission   : Automate everything. Break nothing. Ship fast.
 ```
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
