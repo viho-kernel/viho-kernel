@@ -1,12 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Cloud and DevOps platform engineering">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06162b"/><stop offset=".55" stop-color="#0b3f67"/><stop offset="1" stop-color="#0d756b"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="10"/></filter></defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Animated Cloud and DevOps platform engineering">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06162b"/><stop offset=".55" stop-color="#0b3f67"/><stop offset="1" stop-color="#0d756b"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
 <rect width="1200" height="360" fill="url(#bg)"/>
-<g fill="#e6fbff" opacity=".65"><circle cx="70" cy="52" r="1"/><circle cx="150" cy="115" r="2"/><circle cx="284" cy="50" r="1"/><circle cx="420" cy="105" r="1.5"/><circle cx="575" cy="52" r="1"/><circle cx="695" cy="102" r="1.5"/><circle cx="1090" cy="65" r="1"/><circle cx="1130" cy="260" r="1.5"/></g>
-<g fill="none" stroke="#52e7d5" opacity=".65"><path d="M735 92h115l44 42h120l57 57v96H900l-45-44H735z" stroke-width="2"/><path d="M776 155h87l28 28h74l31 31v45H865l-30-30h-59z" stroke-width="1.5"/><path d="M722 120l-68 56 68 56M1088 120l68 56-68 56" stroke-width="3"/></g>
-<g fill="#52e7d5"><circle cx="735" cy="92" r="5"/><circle cx="894" cy="134" r="5"/><circle cx="1071" cy="191" r="5"/><circle cx="900" cy="287" r="5"/><circle cx="735" cy="287" r="5"/></g>
-<circle cx="909" cy="208" r="95" fill="#23c8ff" opacity=".16" filter="url(#g)"/>
+<g fill="#e6fbff" opacity=".65">
+  <circle cx="70" cy="52" r="1"><animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="115" r="2"><animate attributeName="opacity" values="1;.15;1" dur="3.3s" repeatCount="indefinite"/></circle>
+  <circle cx="284" cy="50" r="1"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="420" cy="105" r="1.5"><animate attributeName="opacity" values="1;.2;1" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="575" cy="52" r="1"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="695" cy="102" r="1.5"><animate attributeName="opacity" values="1;.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="1090" cy="65" r="1"><animate attributeName="opacity" values=".2;1;.2" dur="2.7s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="none" stroke="#52e7d5" opacity=".65">
+  <path d="M735 92h115l44 42h120l57 57v96H900l-45-44H735z" stroke-width="2" stroke-dasharray="12 8"><animate attributeName="stroke-dashoffset" from="0" to="-160" dur="5s" repeatCount="indefinite"/></path>
+  <path d="M776 155h87l28 28h74l31 31v45H865l-30-30h-59z" stroke-width="1.5" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="128" dur="4s" repeatCount="indefinite"/></path>
+  <path d="M722 120l-68 56 68 56M1088 120l68 56-68 56" stroke-width="3"><animate attributeName="opacity" values=".25;1;.25" dur="2.6s" repeatCount="indefinite"/></path>
+</g>
+<g fill="#52e7d5">
+  <circle cx="735" cy="92" r="5"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="894" cy="134" r="5"><animate attributeName="r" values="8;4;8" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1071" cy="191" r="5"><animate attributeName="r" values="4;8;4" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="900" cy="287" r="5"><animate attributeName="r" values="8;4;8" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="735" cy="287" r="5"><animate attributeName="r" values="4;8;4" dur="2.6s" repeatCount="indefinite"/></circle>
+</g>
+<circle cx="909" cy="208" r="95" fill="#23c8ff" opacity=".16" filter="url(#g)"><animate attributeName="r" values="78;112;78" dur="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.26;.08" dur="3.4s" repeatCount="indefinite"/></circle>
 <text x="58" y="92" fill="#52e7d5" font-family="monospace" font-size="16" letter-spacing="5">PLATFORM ENGINEERING // ONLINE</text>
 <text x="58" y="157" fill="#f4fdff" font-family="sans-serif" font-size="46" font-weight="700">SAI VIHARI REDDY</text>
 <text x="60" y="202" fill="#bce9f5" font-family="monospace" font-size="18">CLOUD INFRASTRUCTURE · AUTOMATION · RELIABILITY</text>
 <text x="60" y="268" fill="#52e7d5" font-family="monospace" font-size="14">AWS  /  TERRAFORM  /  KUBERNETES  /  CI/CD  /  OBSERVABILITY</text>
+<circle cx="532" cy="86" r="4" fill="#52e7d5"><animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite"/></circle>
 </svg>
