@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="Space AI Cybersecurity command center" src="https://raw.githubusercontent.com/viho-kernel/viho-kernel/main/assets/cyber-orbit.svg" />
+<img width="100%" alt="Cloud and DevOps platform engineering" src="https://raw.githubusercontent.com/viho-kernel/viho-kernel/main/assets/cloud-platform.svg" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=37F3B0&center=true&vCenter=true&width=760&lines=Cloud+Infrastructure+%7C+DevOps+Automation+%7C+Secure+Delivery;Terraform+%E2%86%92+Kubernetes+%E2%86%92+Observability;Exploring+AI+systems+and+cybersecurity+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=37F3B0&center=true&vCenter=true&width=760&lines=AWS+Infrastructure+%7C+Terraform+%7C+Ansible;Docker+%E2%86%92+Kubernetes%2FEKS+%E2%86%92+Observability;Building+reliable+cloud+platforms+through+automation)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-146C94?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ssv1802)
 [![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viho-kernel)
@@ -10,17 +10,17 @@
 
 </div>
 
-## ▣ Mission Control
+## ▣ Platform Command
 
-> Cloud & DevOps engineer building automated, observable, and secure infrastructure. I bring **4+ years of enterprise IT infrastructure experience** and work across AWS, Terraform, Ansible, Docker, Kubernetes, CI/CD, and monitoring.
+> Cloud & DevOps engineer building automated, observable, and reliable infrastructure. I bring **4+ years of enterprise IT infrastructure experience** and work across AWS, Terraform, Ansible, Docker, Kubernetes, CI/CD, and monitoring.
 
 ```text
 [ CORE SIGNALS ]
   CLOUD SYSTEMS      AWS · VPC · IAM · ALB · Route 53
   AUTOMATION         Terraform · Ansible · Python · Bash
   PLATFORM DELIVERY  Docker · Kubernetes/EKS · Jenkins · GitHub Actions
-  DEFENSIVE ENGINEERING  Trivy · secrets hygiene · policy checks · observability
-  NEXT FRONTIER      AI systems · cybersecurity automation · platform reliability
+  DELIVERY CONTROLS      Trivy · secrets hygiene · policy checks · releases
+  CURRENT FOCUS          cloud automation · platform reliability · observability
 ```
 
 ## ◉ Featured Missions
